@@ -20,3 +20,13 @@ Add background music
 Add power-ups
 Add player health bar
 Add menu screen
+
+How to Run : 
+git clone https://github.com/your-username/CosmicBlaster.git
+cd CosmicBlaster
+python main.py
+
+Make sure Pygame is installed :
+pip install pygame
+
+
