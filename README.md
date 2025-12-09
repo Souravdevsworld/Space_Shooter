@@ -22,8 +22,8 @@ Add player health bar
 Add menu screen
 
 How to Run : 
-git clone https://github.com/your-username/CosmicBlaster.git
-cd CosmicBlaster
+git clone https://github.com/your-username/Space_Shooter.git
+cd Space_Shooter
 python main.py
 
 Make sure Pygame is installed :
